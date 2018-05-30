@@ -2,8 +2,8 @@
 
 <h2>Artificial Neural Nnetwork - MATLAB<h2>
 
+
 <h2>Design & Implementation</h2>
-<ul>
 <li> Define one sample: inputs and outputs </li>
 <li> Define and custom network </li>
 <li> Define topology and transfer function </li>
