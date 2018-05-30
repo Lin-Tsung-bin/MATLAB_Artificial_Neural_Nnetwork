@@ -1,6 +1,6 @@
 # MATLAB_Artificial_Neural_Nnetwork
 
-<h2> MATLAB - Artificial Neural Nnetwork<h2><br>
+<h2>MATLAB - Artificial Neural Nnetwork</h2><br>
 
 
 <h2>Design & Implementation</h2>
