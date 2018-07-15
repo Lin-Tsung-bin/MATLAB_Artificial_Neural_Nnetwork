@@ -1,0 +1,6 @@
+LastName,Gender,Age,Height,Weight
+Smith,M,38,71,176
+Johnson,M,43,69,163
+Williams,F,38,64,131
+Jones,F,40,67,133
+Brown,F,49,66,119
